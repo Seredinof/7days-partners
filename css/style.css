@@ -1,0 +1,10 @@
+.b-mb-20 {
+    margin-bottom: 20px;
+}
+.b-pagination {
+    margin: 0;
+}
+.b-color-white,
+a.b-color-white{
+    color: #fff;
+}
